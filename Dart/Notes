@@ -1,0 +1,15 @@
+1. Why Dart? for making apps using flutter
+2. Dart uses JIT compiler so that we do not need for the results to see the output
+3. But while using program it uses AOT.
+4. We will need a SDK for writing the dart code there are 3 ways:
+   1. flutter sdk contains it.
+   2. dart sdk contains it.
+   3. online dart sdk.
+5. Dart follows precedence or BODMAS.
+6. Variables 
+   1. In Dart is used for storing the values, i.e if we want user input.
+   2. We would need to change every constant if variables are not used
+   3. <datatype><variable name> = value;
+7. DataTypes
+   1. Includes int, double, String, bool, dynamic
+   2. dynamic can take any datatype.
